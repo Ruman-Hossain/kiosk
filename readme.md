@@ -7,6 +7,14 @@
 
 ## Click to View [Deployed URL Link](https://kiosk-i1os.onrender.com/)
 
+## Sample User Logins
+```
+ruman.cse.brur@email.com (Admin)
+Ostad@2023
+
+fivup.expert@gmail.com (Customer)
+Ostad@2023
+```
 
 ## Features
 
@@ -81,15 +89,5 @@ npm run data:import
 
 # Destroy data
 npm run data:destroy
-```
-
-```
-Sample User Logins
-
-ruman.cse.brur@email.com (Admin)
-Ostad@2023
-
-fivup.expert@gmail.com (Customer)
-Ostad@2023
 ```
 # kiosk
