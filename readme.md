@@ -5,6 +5,7 @@
 ## Paypal Account to Make Payment while Placing Order
 *Account Name* client-ruman@personal.example.com [Personal]
 
+## Click to View [Deployed URL Link](https://kiosk-i1os.onrender.com/)
 
 
 ## Features
